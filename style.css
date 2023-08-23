@@ -1,0 +1,41 @@
+/* body {
+    background-image: url('https://e7.pngegg.com/pngimages/81/116/png-clipart-earth-continent-world-map-world-map-miscellaneous-world.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  } */
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100%;
+}
+.bg{
+    background-color: rgb(73, 73, 254);
+}
+.option_pading{
+    padding-left: 534px;
+}
+.comarison-btn{
+    border-radius: 20px !important
+}
+
+
+/* .btn {
+    padding: 1rem;
+    border-radius: 25px;
+    border: none;
+    background-color: #ffffff;
+    font-family: inherit;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    min-width: 300px;
+    font-size: 1rem;
+} */
+.option_btn{
+    padding: 10px;
+    border-radius: 25px;
+    border-color: rgb(0, 89, 255);
+
+}
